@@ -30,7 +30,7 @@ plugins:
 
 defaults:
   - scope:
-      path: "assets"
+      path: "pdf"
     values:
       pdf: true
 header_pages:
