@@ -3,19 +3,29 @@ layout: default
 ---
 
 <div class="home">
+    <h1>Welcome to my website.</h1>
 
- <h1 class="page-heading">Posts</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div>
+        <p>I am a Research Fellow in the Cyber Security Centre (CSC), De Montfort
+        University, Leicester.</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+        <p>I am interested in addressing issues, such as usability and privacy,
+        in the interaction between us and our data. My PhD focused on applying
+        machine-learning techniques to recommending location-privacy
+        preferences. My current research is about understanding the strength of
+        privacy metrics in different scenarios.</p>
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <p>If you want to know more about what I do, please check my
+        <a href="/publications">papers</a>!</p>
+
+        <p>Before joining the CSC to work with <a
+           href="http://research.isabel-wagner.net/"> Dr Isabel Wagner </a>, I
+       did my PhD in the School of Computer Science at the University of St
+       Andrews, under the supervision of <a href="https://tnhh.org">Dr Tristan
+           Henderson</a> and <a
+                                            href="https://sites.google.com/site/juanyeresearch/">
+           Dr Juan Ye</a>.</p>
+
+        <p>More about me: <a href="/assets/cv_yuchenzhao_dmu.pdf">Curriculum
+            Vitae</a></p>
 </div>
