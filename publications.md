@@ -7,7 +7,7 @@ permalink: /publications/
 2017:
 1. Yuchen Zhao and Isabel Wagner. On the Strength of Privacy Metrics for
    Vehicular Communication (submitted to the IEEE Transactions on Mobile
-   Computing, under review).
+   Computing, minor revision).
 2. Yuchen Zhao. [Recommending Privacy Preferences in Location-Sharing
    Services]({{"http://hdl.handle.net/10023/11055"|absolute_url}}).
    School of Computer Science, University of St Andrews, June 2017. (PhD Thesis)
