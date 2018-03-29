@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+2018:
+1. Yuchen Zhao and Isabel Wagner. POSTER: Evaluating Privacy Metrics for Graph
+   Anonymization and De-anonymization (accepted by ASIACCS '18). Incheon,
+   Republic of Korea, June 2018.
+
 2017:
 1. Yuchen Zhao and Isabel Wagner. On the Strength of Privacy Metrics for
    Vehicular Communication (submitted to the IEEE Transactions on Mobile
