@@ -4,13 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-2018:
-
+2019:
 1. Yuchen Zhao and Isabel Wagner. [On the Strength of Privacy Metrics for
    Vehicular
    Communication]({{"https://doi.org/10.1109/TMC.2018.2830359"|absolute_url}}).
-   IEEE TMC, 2018.
-2. Yuchen Zhao and Isabel Wagner. [POSTER: Evaluating Privacy Metrics for Graph
+   IEEE TMC, vol. 18(2), pp. 390-403, February 2019.
+
+2018:
+1. Yuchen Zhao and Isabel Wagner. [POSTER: Evaluating Privacy Metrics for Graph
    Anonymization and
    De-anonymization]({{"https://doi.org/10.1145/3196494.3201586"|absolute_url}}).
    Proceedings of ASIA CCS 2018, Incheon, Republic of Korea, June 2018.
